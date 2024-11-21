@@ -13,5 +13,14 @@ Welcome to the E-Commerce Website for Electronics Components project! This proje
 3) Product Details: View detailed information about each component, including specifications, pricing, and availability.
 4) Shopping Cart: Add products to your cart and review your selected items before proceeding to checkout.
 
+---->About the Author<----
 
+Swapnil Soni
 
+As a passionate web developer, I focus on creating responsive and user-friendly applications. ElectroMart is a testament to my skills in React.js, API integration, and modern UI/UX design.
+
+Feel free to reach out:
+
+Linkedin:- https://www.linkedin.com/in/swapnil-soni-1760a9174?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3ckDS2bIRLyclg1ksfUDrQ%3D%3D
+
+Email:-swapnilsoni2001@gmail.com
